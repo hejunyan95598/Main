@@ -1,4 +1,1 @@
-# hello-world
-
-Just a repository for test purpose
-Just want to test the commit function
+### This is a repository for code-learning and project collaboration purpose
